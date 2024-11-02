@@ -15,23 +15,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/web-infra-dev/rspress' },
     ],
-    sidebar: {
-      '/start/': [
-        {
-          text: '开始',
-          items: [
-            {
-              text: '入门知识',
-              link: '/start/',
-            },
-            {
-              text: 'JSON文件结构',
-              link: '/start/new/',
-            },
-          ],
-        },
-          ],
+  
       // 您可以根据需要添加更多的侧边栏分组和链接
-    },
+
   },
 });
