@@ -1,6 +1,7 @@
 # 简介
 
-[Moon-Skin](https://rspress.dev/zh/) 是一个基于 Rspack 的我的世界4D皮肤教程站，基于 React 框架进行渲染
+[Rspress](https://rspress.dev/zh/) 是一个基于 Rspack 的静态站点生成器，基于 React 框架进行渲染，内置了一套默认的文档主题，你可以通过 Rspress 来快速搭建一个文档站点，同时也可以自定义主题，来满足你的个性化静态站需求，比如博客站、产品主页等。
+
 # 开始
 
 - 单击 **运行** 按钮启动程序。
