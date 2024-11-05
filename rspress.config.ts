@@ -10,7 +10,7 @@ export default defineConfig({
     light: '/kindpng_1399972.png',
     dark: '/rspress-dark-logo.png',
   },
-  base: "/Monn-Skin",
+  base: "/Moon-Skin",
   themeConfig: {
     socialLinks: [
       { icon: 'github', mode: 'link', content: 'https://github.com/web-infra-dev/rspress' },
